@@ -5,13 +5,13 @@ Digital Dipatcher is a Discord Bot for https://github.com/TheDigitalDispatcher/H
 # Discord
 https://discord.gg/4rdvPzc
 
-### Current Release
+# Current Release
   vDEV-01
 
-### Updates
+# Updates
   None
 
-### Project Ideas
+# Project Ideas
   None!
 
-##### These projects are operated by the Digital Dispatcher Team
+# These projects are operated by the Digital Dispatcher Team
