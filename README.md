@@ -1,6 +1,6 @@
 # Digital Dispatcher™
 
-Digital Dipatcher is a Dicord Bot for https://github.com/TheDigitalDispatcher/Hydrid-CAD-MDT
+Digital Dipatcher is a Discord Bot for https://github.com/TheDigitalDispatcher/Hydrid-CAD-MDT
 
 # Discord
 https://discord.gg/4rdvPzc
